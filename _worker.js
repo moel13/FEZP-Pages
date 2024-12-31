@@ -8,5 +8,6 @@ js-sha256/src/sha256.js:
    * @author Chen, Yi-Cyuan [emn178@gmail.com]
    * @copyright Chen, Yi-Cyuan 2014-2024
    * @license MIT
+   lookup
    *)
 */
